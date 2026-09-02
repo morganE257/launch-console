@@ -8,7 +8,7 @@ while running:
     print("2) My Goals")
     print("3) Exit")
     print("4) Fun Fact!")
-    choice = input("Please pick 1, 2, 3, or 4")
+    choice = input("Please pick 1, 2, 3, or 4 ")
     if choice == '1':
         print("My name is Morgan, and I am 16 years old")
     elif choice == '2':
