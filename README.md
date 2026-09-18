@@ -1,2 +1,5 @@
 # launch-console
-This is a test change for lesson 1.
+
+
+## Day 1 at my startup.
+Today I started my lessons for Code2College.
